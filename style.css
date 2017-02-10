@@ -1,0 +1,14 @@
+body {
+  margin-top: 40px;
+  background-color: black;
+  color: black;
+}
+
+.jumbotron {
+  background-color: #FFF;
+}
+
+.about-text {
+  font-size: 15px !important;
+  text-indent: 30px;
+}
